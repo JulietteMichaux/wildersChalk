@@ -1,0 +1,19 @@
+{
+  "name": "wilderschalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wilders.js",
+  "scripts": {
+    "start": "node wilders.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulietteMichaux/wildersChalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulietteMichaux/wildersChalk/issues"
+  },
+  "homepage": "https://github.com/JulietteMichaux/wildersChalk#readme"
+}
